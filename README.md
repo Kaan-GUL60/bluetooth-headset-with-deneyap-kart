@@ -1,6 +1,5 @@
-# Make-Bluetooth-Headspon-with-ESP32-DENEYAP_KART-
+# DeneyapKart ile Blueetoh Kulaklık Yapımı
 
-DENEYAPKART İLE BLUETOOTH KULAKLIK YAPIMI 
-Detaylar KGS TEKNOLOJİ'de
+Deneyapkart'ı mobil cihazlara ses çıkışı olarak tanıtarak bluetooth üzerinden sesi kulaklığa verme
 
-[Buradan](https://kgs.infinityfreeapp.com/blog_bluetooth_kulaklik_yapimi.html)'dan detalı bilgi alabilirsiniz
+[Buradan](https://kgs.infinityfreeapp.com/blog_bluetooth_kulaklik_yapimi.html)'dan detalı şekilde nasıl yapabileceğinizi görebilirsiniz.
